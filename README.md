@@ -64,8 +64,3 @@
 
 ###
 
-<div data-importer="music" align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&unique=false" alt="Spotify recently played"  />
-</div>
-
-###
